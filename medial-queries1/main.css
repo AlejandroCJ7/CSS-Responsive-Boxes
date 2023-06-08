@@ -1,3 +1,48 @@
+
+
+
+
 body {
-  background: blanchedalmond;
+  background: lightblue;
+  margin: 0;
+  font-family: serif;
+  color: white;
+  
+}
+
+
+.a {
+  display: flexbox;
+  background-color: rgb(42, 42, 177);
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  height: 200px;
+  text-align: center;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.b {
+  display: flexbox;
+  background-color: rgb(42, 42, 177);
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  height: 600px;
+  text-align: center;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.c {
+  display: flexbox;
+  background-color: rgb(42, 42, 177);
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  height: 200px;
+  text-align: center;
+  justify-content: space-between;
+  margin: 10px;
 }
